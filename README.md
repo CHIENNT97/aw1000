@@ -94,7 +94,7 @@ Supported devices include, but are not limited to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/qosmio/openwrt-ipq -b 24.10-nss
+   git clone https://github.com/CHIENNT97/aw1000.git -b 24.10-nss
    cd openwrt-ipq
    ```
 2. Update feeds:
